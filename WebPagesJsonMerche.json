@@ -2,5 +2,13 @@
   {
     "url": "https://www.mercheveras.com/",
     "webpage": "WebPage"
+  },
+  {
+    "url": "https://www.mercheveras.com/?page_id=901",
+    "webpage": "Agenda"
+  },
+  {
+    "url": "https://www.mercheveras.com/?page_id=1500",
+    "webpage": "Mis citas"
   }
 ]
